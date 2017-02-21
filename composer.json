@@ -1,0 +1,14 @@
+{
+    "name": "wj/array-collection",
+    "description": "turn array action to class function ,make it simple to use and to check",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wangjia5693",
+            "email": "wangjia5693@126.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
