@@ -7,7 +7,7 @@
  */
 include_once "./Arr.php";
 include_once "./Arrayable.php";
-include_once "./Function.php";
+include_once "./Cfunction.php";
 include_once "./jsonable.php";
 include_once "./Macroable.php";
 include_once "./collection.php";
